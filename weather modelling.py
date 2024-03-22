@@ -2,7 +2,7 @@
 
 def temperature_modeling(a, b, c, time):
     """
-    Function to model temperature using a quadratic equation.
+    Function to model temperature using a quadratic equation
     
     Parameters:
         a (float): Coefficient a.
